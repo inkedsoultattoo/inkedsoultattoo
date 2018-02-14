@@ -1,10 +1,4 @@
-$bg-color: #F7F7F7;
-$bg-dark-color: #64B3A5;
-$bg-default-block-color: #f4f4f4;
-$bg-accent-block-color: #7AA6B7;
-$text-accent-block-color: #ffffff;
-$bg-showcase-color: #999;
-$bg-code-color: #F7F4E6;
+
 // responsive mixin
 @mixin breakpoint($point: mobile) {
   @if $point == mobile {
